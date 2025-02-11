@@ -42,7 +42,6 @@ public class Bench
         {
             if(string.Equals(item.EventType, "state", StringComparison.OrdinalIgnoreCase))
             {
-                //var json = JsonSerializer.Deserialize<EspEvent>(item.Data, jsonOptions);
                 count++;
             }
         }
@@ -69,8 +68,59 @@ public class Bench
 
             if(handleNext)
             {
-                //var json = JsonSerializer.Deserialize<EspEvent>(data.AsSpan(6), jsonOptions);
                 count++;
+            }
+
+            handleNext = string.Equals(data, "event: state", StringComparison.OrdinalIgnoreCase);
+        }
+
+        return count;
+    }
+
+    [Benchmark]
+    public async Task<int> SSE_Parser_Deserialize()
+    {
+        stream.Position = 0;
+        int count = 0;
+
+        var parser = SseParser.Create(stream, (type, data) =>
+        {
+            var str = Encoding.UTF8.GetString(data);
+            return str;
+        });
+        await foreach (var item in parser.EnumerateAsync())
+        {
+            if (string.Equals(item.EventType, "state", StringComparison.OrdinalIgnoreCase))
+            {
+                var json = JsonSerializer.Deserialize<EspEvent>(item.Data, jsonOptions);
+                count += json != null ? 1 : 0;
+            }
+        }
+
+        return count;
+    }
+
+
+    [Benchmark]
+    public async Task<int> SSE_StreamReader_Deserialize()
+    {
+        stream.Position = 0;
+        int count = 0;
+        bool handleNext = false;
+
+        while (true)
+        {
+            string data = await reader.ReadLineAsync();
+
+            if (data == null)
+            {
+                break;
+            }
+
+            if (handleNext)
+            {
+                var json = JsonSerializer.Deserialize<EspEvent>(data.AsSpan(6), jsonOptions);
+                count += json != null ? 1 : 0;
             }
 
             handleNext = string.Equals(data, "event: state", StringComparison.OrdinalIgnoreCase);
