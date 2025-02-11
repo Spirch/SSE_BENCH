@@ -1,0 +1,724 @@
+retry: 30000
+id: 1500878688
+event: ping
+data: 
+
+retry: 30000
+id: 1500888694
+event: ping
+data: 
+
+event: state
+data: {"id":"sensor-s31-outlet-05_voltage","value":117.497,"state":"117.50 V"}
+
+event: state
+data: {"id":"sensor-s31-outlet-05_wifi_signal","value":-44,"state":"-44 dBm"}
+
+retry: 30000
+id: 1500898695
+event: ping
+data: 
+
+event: state
+data: {"id":"sensor-s31-outlet-05_total_power","value":302.1638,"state":"302.16 kWh"}
+
+event: state
+data: {"id":"sensor-s31-outlet-05_current","value":2.545056,"state":"2.55 A"}
+
+event: state
+data: {"id":"sensor-s31-outlet-05_apparent_power","value":299.4001,"state":"299.40 VA"}
+
+retry: 30000
+id: 1500908690
+event: ping
+data: 
+
+event: state
+data: {"id":"sensor-s31-outlet-05_voltage","value":117.4257,"state":"117.43 V"}
+
+event: state
+data: {"id":"sensor-s31-outlet-05_power_factor","value":0.955643,"state":"0.96 PF"}
+
+retry: 30000
+id: 1500918693
+event: ping
+data: 
+
+event: state
+data: {"id":"sensor-s31-outlet-05_daily_energy","value":5.15658,"state":"5.16 kW"}
+
+event: state
+data: {"id":"sensor-s31-outlet-05_power","value":282.9051,"state":"282.91 W"}
+
+retry: 30000
+id: 1500928694
+event: ping
+data: 
+
+retry: 30000
+id: 1500938689
+event: ping
+data: 
+
+event: state
+data: {"id":"sensor-s31-outlet-05_power_factor","value":0.900975,"state":"0.90 PF"}
+
+event: state
+data: {"id":"sensor-s31-outlet-05_power_factor","value":0.955151,"state":"0.96 PF"}
+
+retry: 30000
+id: 1500948689
+event: ping
+data: 
+
+event: state
+data: {"id":"sensor-s31-outlet-05_power_factor","value":0.900832,"state":"0.90 PF"}
+
+event: state
+data: {"id":"sensor-s31-outlet-05_power_factor","value":0.991557,"state":"0.99 PF"}
+
+event: state
+data: {"id":"sensor-s31-outlet-05_wifi_signal","value":-45,"state":"-45 dBm"}
+
+retry: 30000
+id: 1500958692
+event: ping
+data: 
+
+event: state
+data: {"id":"sensor-s31-outlet-05_total_power","value":302.1698,"state":"302.17 kWh"}
+
+event: state
+data: {"id":"sensor-s31-outlet-05_current","value":2.511599,"state":"2.51 A"}
+
+event: state
+data: {"id":"sensor-s31-outlet-05_apparent_power","value":295.6642,"state":"295.66 VA"}
+
+retry: 30000
+id: 1500968693
+event: ping
+data: 
+
+event: state
+data: {"id":"sensor-s31-outlet-05_voltage","value":117.4813,"state":"117.48 V"}
+
+retry: 30000
+id: 1500978688
+event: ping
+data: 
+
+event: state
+data: {"id":"sensor-s31-outlet-05_power_factor","value":0.960497,"state":"0.96 PF"}
+
+event: state
+data: {"id":"sensor-s31-outlet-05_daily_energy","value":5.161322,"state":"5.16 kW"}
+
+event: state
+data: {"id":"sensor-s31-outlet-05_power","value":284.4572,"state":"284.46 W"}
+
+event: state
+data: {"id":"sensor-s31-outlet-05_power_factor","value":0.94042,"state":"0.94 PF"}
+
+retry: 30000
+id: 1500988688
+event: ping
+data: 
+
+retry: 30000
+id: 1500998690
+event: ping
+data: 
+
+retry: 30000
+id: 1501008688
+event: ping
+data: 
+
+event: state
+data: {"id":"sensor-s31-outlet-05_wifi_signal","value":-45,"state":"-45 dBm"}
+
+retry: 30000
+id: 1501018692
+event: ping
+data: 
+
+event: state
+data: {"id":"sensor-s31-outlet-05_total_power","value":302.1744,"state":"302.17 kWh"}
+
+event: state
+data: {"id":"sensor-s31-outlet-05_current","value":2.51861,"state":"2.52 A"}
+
+event: state
+data: {"id":"sensor-s31-outlet-05_apparent_power","value":296.6479,"state":"296.65 VA"}
+
+retry: 30000
+id: 1501028692
+event: ping
+data: 
+
+event: state
+data: {"id":"sensor-s31-outlet-05_voltage","value":117.497,"state":"117.50 V"}
+
+retry: 30000
+id: 1501038692
+event: ping
+data: 
+
+event: state
+data: {"id":"sensor-s31-outlet-05_power_factor","value":0.961379,"state":"0.96 PF"}
+
+event: state
+data: {"id":"sensor-s31-outlet-05_daily_energy","value":5.166192,"state":"5.17 kW"}
+
+event: state
+data: {"id":"sensor-s31-outlet-05_power","value":287.4389,"state":"287.44 W"}
+
+retry: 30000
+id: 1501048695
+event: ping
+data: 
+
+retry: 30000
+id: 1501058690
+event: ping
+data: 
+
+retry: 30000
+id: 1501068690
+event: ping
+data: 
+
+event: state
+data: {"id":"sensor-s31-outlet-05_wifi_signal","value":-44,"state":"-44 dBm"}
+
+retry: 30000
+id: 1501078688
+event: ping
+data: 
+
+event: state
+data: {"id":"sensor-s31-outlet-05_total_power","value":302.1764,"state":"302.18 kWh"}
+
+event: state
+data: {"id":"sensor-s31-outlet-05_current","value":2.506173,"state":"2.51 A"}
+
+event: state
+data: {"id":"sensor-s31-outlet-05_apparent_power","value":295.0008,"state":"295.00 VA"}
+
+retry: 30000
+id: 1501088689
+event: ping
+data: 
+
+event: state
+data: {"id":"sensor-s31-outlet-05_voltage","value":117.6399,"state":"117.64 V"}
+
+retry: 30000
+id: 1501098688
+event: ping
+data: 
+
+event: state
+data: {"id":"sensor-s31-outlet-05_power_factor","value":0.953197,"state":"0.95 PF"}
+
+event: state
+data: {"id":"sensor-s31-outlet-05_daily_energy","value":5.170955,"state":"5.17 kW"}
+
+event: state
+data: {"id":"sensor-s31-outlet-05_power","value":285.7789,"state":"285.78 W"}
+
+retry: 30000
+id: 1501108691
+event: ping
+data: 
+
+retry: 30000
+id: 1501118689
+event: ping
+data: 
+
+retry: 30000
+id: 1501128690
+event: ping
+data: 
+
+event: state
+data: {"id":"sensor-s31-outlet-05_wifi_signal","value":-43,"state":"-43 dBm"}
+
+retry: 30000
+id: 1501138691
+event: ping
+data: 
+
+event: state
+data: {"id":"sensor-s31-outlet-05_total_power","value":302.1854,"state":"302.19 kWh"}
+
+event: state
+data: {"id":"sensor-s31-outlet-05_current","value":2.510046,"state":"2.51 A"}
+
+event: state
+data: {"id":"sensor-s31-outlet-05_apparent_power","value":294.4136,"state":"294.41 VA"}
+
+retry: 30000
+id: 1501148692
+event: ping
+data: 
+
+event: state
+data: {"id":"sensor-s31-outlet-05_voltage","value":117.7115,"state":"117.71 V"}
+
+retry: 30000
+id: 1501158691
+event: ping
+data: 
+
+event: state
+data: {"id":"sensor-s31-outlet-05_power_factor","value":0.96735,"state":"0.97 PF"}
+
+event: state
+data: {"id":"sensor-s31-outlet-05_daily_energy","value":5.17578,"state":"5.18 kW"}
+
+event: state
+data: {"id":"sensor-s31-outlet-05_power","value":289.549,"state":"289.55 W"}
+
+retry: 30000
+id: 1501168695
+event: ping
+data: 
+
+retry: 30000
+id: 1501178688
+event: ping
+data: 
+
+retry: 30000
+id: 1501188689
+event: ping
+data: 
+
+event: state
+data: {"id":"sensor-s31-outlet-05_wifi_signal","value":-43,"state":"-43 dBm"}
+
+retry: 30000
+id: 1501198691
+event: ping
+data: 
+
+event: state
+data: {"id":"sensor-s31-outlet-05_total_power","value":302.1898,"state":"302.19 kWh"}
+
+event: state
+data: {"id":"sensor-s31-outlet-05_current","value":2.540001,"state":"2.54 A"}
+
+event: state
+data: {"id":"sensor-s31-outlet-05_apparent_power","value":299.2368,"state":"299.24 VA"}
+
+retry: 30000
+id: 1501208689
+event: ping
+data: 
+
+event: state
+data: {"id":"sensor-s31-outlet-05_voltage","value":117.6399,"state":"117.64 V"}
+
+retry: 30000
+id: 1501218689
+event: ping
+data: 
+
+event: state
+data: {"id":"sensor-s31-outlet-05_power_factor","value":0.971572,"state":"0.97 PF"}
+
+event: state
+data: {"id":"sensor-s31-outlet-05_daily_energy","value":5.180824,"state":"5.18 kW"}
+
+event: state
+data: {"id":"sensor-s31-outlet-05_power","value":302.6107,"state":"302.61 W"}
+
+retry: 30000
+id: 1501228688
+event: ping
+data: 
+
+retry: 30000
+id: 1501238691
+event: ping
+data: 
+
+event: state
+data: {"id":"sensor-s31-outlet-05_power_factor","value":0.878617,"state":"0.88 PF"}
+
+event: state
+data: {"id":"sensor-s31-outlet-05_power_factor","value":0.955525,"state":"0.96 PF"}
+
+retry: 30000
+id: 1501248694
+event: ping
+data: 
+
+event: state
+data: {"id":"sensor-s31-outlet-05_power_factor","value":0.905077,"state":"0.91 PF"}
+
+event: state
+data: {"id":"sensor-s31-outlet-05_power_factor","value":0.963721,"state":"0.96 PF"}
+
+event: state
+data: {"id":"sensor-s31-outlet-05_wifi_signal","value":-44,"state":"-44 dBm"}
+
+retry: 30000
+id: 1501258689
+event: ping
+data: 
+
+event: state
+data: {"id":"sensor-s31-outlet-05_total_power","value":302.1919,"state":"302.19 kWh"}
+
+event: state
+data: {"id":"sensor-s31-outlet-05_apparent_power","value":294.8615,"state":"294.86 VA"}
+
+event: state
+data: {"id":"sensor-s31-outlet-05_current","value":2.503469,"state":"2.50 A"}
+
+retry: 30000
+id: 1501268691
+event: ping
+data: 
+
+event: state
+data: {"id":"sensor-s31-outlet-05_voltage","value":117.6876,"state":"117.69 V"}
+
+retry: 30000
+id: 1501278694
+event: ping
+data: 
+
+event: state
+data: {"id":"sensor-s31-outlet-05_power_factor","value":0.942033,"state":"0.94 PF"}
+
+event: state
+data: {"id":"sensor-s31-outlet-05_daily_energy","value":5.185501,"state":"5.19 kW"}
+
+event: state
+data: {"id":"sensor-s31-outlet-05_power","value":280.5987,"state":"280.60 W"}
+
+retry: 30000
+id: 1501288690
+event: ping
+data: 
+
+retry: 30000
+id: 1501298693
+event: ping
+data: 
+
+event: state
+data: {"id":"sensor-s31-outlet-05_daily_energy","value":5.186897,"state":"5.19 kW"}
+
+event: state
+data: {"id":"sensor-s31-outlet-05_power","value":279.3057,"state":"279.31 W"}
+
+retry: 30000
+id: 1501308693
+event: ping
+data: 
+
+event: state
+data: {"id":"sensor-s31-outlet-05_wifi_signal","value":-46,"state":"-46 dBm"}
+
+event: state
+data: {"id":"sensor-s31-outlet-05_power_factor","value":0.909034,"state":"0.91 PF"}
+
+event: state
+data: {"id":"sensor-s31-outlet-05_power_factor","value":0.963133,"state":"0.96 PF"}
+
+retry: 30000
+id: 1501318694
+event: ping
+data: 
+
+event: state
+data: {"id":"sensor-s31-outlet-05_total_power","value":302.198,"state":"302.20 kWh"}
+
+event: state
+data: {"id":"sensor-s31-outlet-05_apparent_power","value":294.5537,"state":"294.55 VA"}
+
+event: state
+data: {"id":"sensor-s31-outlet-05_current","value":2.505013,"state":"2.51 A"}
+
+retry: 30000
+id: 1501328692
+event: ping
+data: 
+
+retry: 30000
+id: 1501338688
+event: ping
+data: 
+
+event: state
+data: {"id":"sensor-s31-outlet-05_voltage","value":117.7832,"state":"117.78 V"}
+
+event: state
+data: {"id":"sensor-s31-outlet-05_power_factor","value":0.958858,"state":"0.96 PF"}
+
+event: state
+data: {"id":"sensor-s31-outlet-05_power_factor","value":0.889045,"state":"0.89 PF"}
+
+event: state
+data: {"id":"sensor-s31-outlet-05_daily_energy","value":5.190247,"state":"5.19 kW"}
+
+event: state
+data: {"id":"sensor-s31-outlet-05_power","value":280.4131,"state":"280.41 W"}
+
+event: state
+data: {"id":"sensor-s31-outlet-05_power_factor","value":0.958453,"state":"0.96 PF"}
+
+retry: 30000
+id: 1501348690
+event: ping
+data: 
+
+retry: 30000
+id: 1501358689
+event: ping
+data: 
+
+retry: 30000
+id: 1501368694
+event: ping
+data: 
+
+event: state
+data: {"id":"sensor-s31-outlet-05_wifi_signal","value":-45,"state":"-45 dBm"}
+
+retry: 30000
+id: 1501378692
+event: ping
+data: 
+
+event: state
+data: {"id":"sensor-s31-outlet-05_total_power","value":302.2025,"state":"302.20 kWh"}
+
+event: state
+data: {"id":"sensor-s31-outlet-05_apparent_power","value":293.5057,"state":"293.51 VA"}
+
+event: state
+data: {"id":"sensor-s31-outlet-05_current","value":2.49212,"state":"2.49 A"}
+
+retry: 30000
+id: 1501388693
+event: ping
+data: 
+
+retry: 30000
+id: 1501398688
+event: ping
+data: 
+
+event: state
+data: {"id":"sensor-s31-outlet-05_voltage","value":117.6399,"state":"117.64 V"}
+
+event: state
+data: {"id":"sensor-s31-outlet-05_power_factor","value":0.955057,"state":"0.96 PF"}
+
+event: state
+data: {"id":"sensor-s31-outlet-05_daily_energy","value":5.194993,"state":"5.19 kW"}
+
+event: state
+data: {"id":"sensor-s31-outlet-05_power","value":284.7317,"state":"284.73 W"}
+
+retry: 30000
+id: 1501408691
+event: ping
+data: 
+
+event: state
+data: {"id":"sensor-s31-outlet-05_voltage","value":118.0564,"state":"118.06 V"}
+
+retry: 30000
+id: 1501418694
+event: ping
+data: 
+
+event: state
+data: {"id":"sensor-s31-outlet-05_power_factor","value":0.896679,"state":"0.90 PF"}
+
+event: state
+data: {"id":"sensor-s31-outlet-05_power_factor","value":0.952117,"state":"0.95 PF"}
+
+retry: 30000
+id: 1501428688
+event: ping
+data: 
+
+event: state
+data: {"id":"sensor-s31-outlet-05_wifi_signal","value":-48,"state":"-48 dBm"}
+
+retry: 30000
+id: 1501438688
+event: ping
+data: 
+
+event: state
+data: {"id":"sensor-s31-outlet-05_total_power","value":302.2076,"state":"302.21 kWh"}
+
+event: state
+data: {"id":"sensor-s31-outlet-05_apparent_power","value":294.2282,"state":"294.23 VA"}
+
+retry: 30000
+id: 1501448690
+event: ping
+data: 
+
+event: state
+data: {"id":"sensor-s31-outlet-05_current","value":2.528807,"state":"2.53 A"}
+
+retry: 30000
+id: 1501458690
+event: ping
+data: 
+
+event: state
+data: {"id":"sensor-s31-outlet-05_voltage","value":117.9268,"state":"117.93 V"}
+
+event: state
+data: {"id":"sensor-s31-outlet-05_power_factor","value":0.986026,"state":"0.99 PF"}
+
+event: state
+data: {"id":"sensor-s31-outlet-05_daily_energy","value":5.199963,"state":"5.20 kW"}
+
+event: state
+data: {"id":"sensor-s31-outlet-05_power","value":293.3359,"state":"293.34 W"}
+
+retry: 30000
+id: 1501468689
+event: ping
+data: 
+
+event: state
+data: {"id":"sensor-s31-outlet-05_power_factor","value":0.90153,"state":"0.90 PF"}
+
+event: state
+data: {"id":"sensor-s31-outlet-05_power_factor","value":0.959566,"state":"0.96 PF"}
+
+retry: 30000
+id: 1501478692
+event: ping
+data: 
+
+retry: 30000
+id: 1501488693
+event: ping
+data: 
+
+event: state
+data: {"id":"sensor-s31-outlet-05_wifi_signal","value":-48,"state":"-48 dBm"}
+
+retry: 30000
+id: 1501498693
+event: ping
+data: 
+
+event: state
+data: {"id":"sensor-s31-outlet-05_total_power","value":302.2119,"state":"302.21 kWh"}
+
+event: state
+data: {"id":"sensor-s31-outlet-05_apparent_power","value":297.5132,"state":"297.51 VA"}
+
+retry: 30000
+id: 1501508689
+event: ping
+data: 
+
+event: state
+data: {"id":"sensor-s31-outlet-05_current","value":2.533688,"state":"2.53 A"}
+
+retry: 30000
+id: 1501518694
+event: ping
+data: 
+
+event: state
+data: {"id":"sensor-s31-outlet-05_voltage","value":117.6399,"state":"117.64 V"}
+
+event: state
+data: {"id":"sensor-s31-outlet-05_power_factor","value":0.95589,"state":"0.96 PF"}
+
+event: state
+data: {"id":"sensor-s31-outlet-05_daily_energy","value":5.204857,"state":"5.20 kW"}
+
+event: state
+data: {"id":"sensor-s31-outlet-05_power","value":288.832,"state":"288.83 W"}
+
+retry: 30000
+id: 1501528688
+event: ping
+data: 
+
+retry: 30000
+id: 1501538693
+event: ping
+data: 
+
+event: state
+data: {"id":"sensor-s31-outlet-05_voltage","value":117.497,"state":"117.50 V"}
+
+retry: 30000
+id: 1501548688
+event: ping
+data: 
+
+event: state
+data: {"id":"sensor-s31-outlet-05_wifi_signal","value":-49,"state":"-49 dBm"}
+
+retry: 30000
+id: 1501558688
+event: ping
+data: 
+
+event: state
+data: {"id":"sensor-s31-outlet-05_total_power","value":302.2178,"state":"302.22 kWh"}
+
+event: state
+data: {"id":"sensor-s31-outlet-05_apparent_power","value":298.9426,"state":"298.94 VA"}
+
+retry: 30000
+id: 1501568693
+event: ping
+data: 
+
+event: state
+data: {"id":"sensor-s31-outlet-05_current","value":2.571667,"state":"2.57 A"}
+
+retry: 30000
+id: 1501578688
+event: ping
+data: 
+
+event: state
+data: {"id":"sensor-s31-outlet-05_voltage","value":117.497,"state":"117.50 V"}
+
+event: state
+data: {"id":"sensor-s31-outlet-05_power_factor","value":0.964605,"state":"0.96 PF"}
+
+event: state
+data: {"id":"sensor-s31-outlet-05_daily_energy","value":5.209662,"state":"5.21 kW"}
+
+event: state
+data: {"id":"sensor-s31-outlet-05_power","value":283.591,"state":"283.59 W"}
+
+retry: 30000
+id: 1501588688
+event: ping
+data: 
+
+retry: 30000
+id: 1501598689
+event: ping
+data: 
+
+retry: 30000
+id: 1501608688
+event: ping
+data: 
+
