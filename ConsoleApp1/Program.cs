@@ -1,12 +1,9 @@
 ﻿using BenchmarkDotNet.Attributes;
 using BenchmarkDotNet.Running;
-using Dia2Lib;
-using System.IO;
 using System.Net.ServerSentEvents;
 using System.Text;
 using System.Text.Json;
 using System.Text.Json.Serialization;
-using static System.Runtime.InteropServices.JavaScript.JSType;
 
 namespace ConsoleApp1
 {
@@ -15,10 +12,6 @@ namespace ConsoleApp1
         static async Task Main(string[] args)
         {
             BenchmarkRunner.Run<Bench>();
-
-            //var bench = new Bench();
-
-            //await bench.SSE_Parser();
         }
     }
 }
